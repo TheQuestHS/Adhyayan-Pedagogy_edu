@@ -1,0 +1,16 @@
+.game{
+    background: linear-gradient(#e66465, #9198e5);
+    height:100vh;
+    width: 203.5vh;
+    align-items: center;
+}
+.back-btn{
+    height: 30px;
+    width: 80px;
+    background:linear-gradient(
+      90deg,
+      rgb(39, 176, 255) 0%,
+      rgb(0, 232, 236) 100%
+    ); 
+    margin-top: 10px;
+  }

@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: lightblue;
+    font-family: 'PT Sans', sans-serif;
+}
+
+p {
+    font-family: verdana;
+    background-color: grey;
+    color: black;
+    font-size: 15px;
+    
+  }
